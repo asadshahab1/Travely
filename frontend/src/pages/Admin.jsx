@@ -153,7 +153,7 @@ const Admin = () => {
             Train Management
           </Link>
           <Link
-            to=""
+            to="/addrestaurants"
             className="p-10 flex-1 hover:bg-[#41A4FF] hover:text-2xl transition duration-300 ease-in-out hover:text-white rounded-lg font-bold shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]"
           >
             Restaurant Management
